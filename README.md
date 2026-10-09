@@ -2,7 +2,7 @@ Sample Readme (delete the above when you're ready to submit, and modify the text
 ---
 
 Aishwarya Silam
-http://a1-charlieroberts.onrender.com
+https://a1-aishwaryasilam.onrender.com
 
 This project is for Asisngment 1 and shows a simple profile that cna be interacted with. There is custom styling and an animation at the bottom of the webpage.
 
